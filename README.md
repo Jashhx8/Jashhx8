@@ -1,33 +1,22 @@
-# Hi, I'm Jashh
+Jashh Patel
+BCA Student • Python • Linux • Cybersecurity • AI/ML
 
-BCA student focused on building practical skills in software development, cybersecurity, and artificial intelligence.
+ABOUT
+What I'm currently learning
 
-## About Me
+TECH STACK
+Python | Linux | Git | GitHub
 
-- Currently learning Python and Linux
-- Exploring cybersecurity and ethical hacking
-- Exploring AI and machine learning
-- Building practical projects to strengthen my technical skills
-- Interested in understanding how systems work and solving technical problems
+CURRENTLY BUILDING
+Your actual projects
 
-## Tech I'm Learning
+LEARNING
+Cybersecurity
+Ethical Hacking
+AI/ML
 
-- Python
-- Linux
-- Git & GitHub
-- Cybersecurity
-- AI / Machine Learning
+GOALS
+...
 
-## Projects
-
-I'm currently building and documenting projects as I learn.
-
-More coming soon.
-
-## Current Focus
-
-> Learn. Build. Break. Understand. Improve.
-
----
-
-Thanks for visiting my profile.
+CONNECT
+LinkedIn
